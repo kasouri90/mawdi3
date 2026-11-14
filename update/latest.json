@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "bundle": "bundle-1.5.0.json",
-  "sha256": "65f0bca430f45e0cfde772e2cc1c41d72d64e5330515a37710cdad29eb6e927c",
-  "notes": "دعم عنوان API مخصص (OneProvider) واسم النموذج"
+  "version": "1.6.0",
+  "bundle": "bundle-1.6.0.json",
+  "sha256": "837f9c6fe62a15a659ae8bd5cb70e631695d98872b9aa8af87d8169aec82bf7b",
+  "notes": "صور للمواضيع + 15 موضوع بمفتاح API"
 }

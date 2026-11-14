@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "bundle": "bundle-1.4.0.json",
-  "sha256": "c2fd24f2ee86954bc8d85f9ceb36df6a599f76e90ed9c92fbe89d51dd0525a64",
-  "notes": "71 موضوعاً جاهزاً + كتابة مواضيع جديدة بمفتاح API"
+  "version": "1.4.1",
+  "bundle": "bundle-1.4.1.json",
+  "sha256": "d7442abf2657f3876435570bb1520daf1f95fd48132dc12ae29e46ea06e2f23e",
+  "notes": "إظهار سبب فشل مفتاح API بوضوح"
 }

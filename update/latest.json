@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "bundle": "bundle-1.4.1.json",
-  "sha256": "d7442abf2657f3876435570bb1520daf1f95fd48132dc12ae29e46ea06e2f23e",
-  "notes": "إظهار سبب فشل مفتاح API بوضوح"
+  "version": "1.5.0",
+  "bundle": "bundle-1.5.0.json",
+  "sha256": "65f0bca430f45e0cfde772e2cc1c41d72d64e5330515a37710cdad29eb6e927c",
+  "notes": "دعم عنوان API مخصص (OneProvider) واسم النموذج"
 }

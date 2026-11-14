@@ -1,6 +1,0 @@
-{
-  "version": "1.6.1",
-  "bundle": "bundle-1.6.1.json",
-  "sha256": "96ffa6d4bd1274e3679d960ceee9d323beec3ccd9f402c21152111a8cfa709c2",
-  "notes": "إزالة الحد اليومي (0 = بلا حد)"
-}
